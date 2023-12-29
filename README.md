@@ -1,2 +1,2 @@
 # Learning
-This nothig but documentation of what i do .
+This is nothing but documentation of what i do .
