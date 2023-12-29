@@ -1,2 +1,2 @@
-# Learning
-This is nothing but documentation of what i do .
+# Numpy
+Im getting started with the numpy.
